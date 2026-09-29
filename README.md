@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Agarwal</h1>
-<h3 align="center">Computer Engineering @ UIUC | Previously @ Molex & Cisco</h3>
+<h3 align="center">Computer Engineering @ UIUC | Previously @ Molex, Cisco</h3>
 
 - 🔭 I’m currently building an **autonomous mopping robot**
 - 🌱 I’m currently learning **embedded DSP**
